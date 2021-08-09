@@ -1,0 +1,114 @@
+
+
+[   {
+    "description": "sample data from google seach ",
+    "docsforTypes": "https://developers.google.com/maps/documentation/places/web-service/supported_types"
+
+    },
+    {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "245 W 38th St, New York, NY 10018, United States",
+    "geometry": {
+        "location": {
+            "lat": 40.7542649,
+            "lng": -73.990364
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.75558002989272,
+                "lng": -73.98903957010727
+            },
+            "southwest": {
+                "lat": 40.75288037010727,
+                "lng": -73.99173922989272
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Black Iron Burger",
+    "opening_hours": {
+        "open_now": true
+    },
+    "photos": [
+        {
+            "height": 2252,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104905126572024710217\">angel navarro</a>"
+            ],
+            "photo_reference": "Aap_uECIGFTgQsMrGT3AIAVspBxqBBgPGU4uupae0xXP39k1PgT4N62AGH5XJk89gvg1_3NY88aFTYJQLNc0xr7CRPvjx2vPOitqQexTrzC1UobekcPw45OxO2JVyqAX2E4nLYELOq5nYE7q_sDfhPoQ7ErkMVxujNDd9fERZBQiZoQvKW8n",
+            "width": 4000
+        }
+    ],
+    "place_id": "ChIJnSnH8qxZwokRzoMUSAeaFAA",
+    "plus_code": {
+        "compound_code": "Q235+PV New York",
+        "global_code": "87G8Q235+PV"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJnSnH8qxZwokRzoMUSAeaFAA",
+    "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "user_ratings_total": 2796
+},
+{
+    "business_status": "OPERATIONAL",
+    "formatted_address": "246 W 18th St, New York, NY 10011, United States",
+    "geometry": {
+        "location": {
+            "lat": 40.7418156,
+            "lng": -74.0000472
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 40.74323092989272,
+                "lng": -73.99863137010726
+            },
+            "southwest": {
+                "lat": 40.74053127010728,
+                "lng": -74.00133102989271
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Westville Chelsea",
+    "opening_hours": {
+        "open_now": true
+    },
+    "photos": [
+        {
+            "height": 5535,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/115818075124962251124\">Westville Chelsea</a>"
+            ],
+            "photo_reference": "Aap_uEBB_Fq9ODKuhekA_GfllVqfGNb1yadBvUqyL1mBLRIpL3HMXJi45kfqsIdkjTdAoUxyX3tkD_O0SH_AwuD0sdxr18lR5ipuS8oqprOorBX45DTmzQpK8ywFktUhpxyBl76hd5JlcjkqeqsnHIBUjD0bIAI6j41bq7xtzO-nv2Y6BuLs",
+            "width": 3690
+        }
+    ],
+    "place_id": "ChIJfVFqGrxZwokRqva56HtwbRs",
+    "plus_code": {
+        "compound_code": "PXRX+PX New York",
+        "global_code": "87G7PXRX+PX"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJfVFqGrxZwokRqva56HtwbRs",
+    "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+    ],
+    "user_ratings_total": 1148
+}
+
+]

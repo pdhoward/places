@@ -12,6 +12,11 @@ https://maps.googleapis.com/maps/api/place/textsearch/json?query=burgers+chelsea
 * Retrieves and array of restaurants based on zip code. A second query is executed for every business found to retrieve additional google places info, such as websites, operating hours and phone numbers
 https://maps.googleapis.com/maps/api/place/textsearch/json?query=restaurant+78749&key=${APIKEY}
 
+* Detailed search on an establishment based on place_id
+
+https://maps.googleapis.com/maps/api/place/details/json?place_id=ChIJYwMdum-1RIYRL8H_NYz65C0&key=${APIKEY}
+
+
 Other packages to explore
 
 https://www.npmjs.com/package/use-places-autocomplete
